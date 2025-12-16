@@ -1,12 +1,12 @@
 name,full_name,owner.login,stargazers_count,forks_count,open_issues_count,language,created_at,updated_at,license.name,html_url,repo_age_days,stars_forks_ratio,popularity_level
-awesome-python,vinta/awesome-python,vinta,273862,26901,526,Python,2014-06-27 21:00:06+00:00,2025-12-15 15:36:58+00:00,Other,https://github.com/vinta/awesome-python,4188,10.18036504219174,Very High
-langflow,langflow-ai/langflow,langflow-ai,141197,8168,935,Python,2023-02-08 22:28:03+00:00,2025-12-15 15:32:31+00:00,MIT License,https://github.com/langflow-ai/langflow,1040,17.28660626836435,Very High
-youtube-dl,ytdl-org/youtube-dl,ytdl-org,139168,10575,4119,Python,2010-10-31 14:35:07+00:00,2025-12-15 14:18:01+00:00,The Unlicense,https://github.com/ytdl-org/youtube-dl,5524,13.160094562647755,Very High
-yt-dlp,yt-dlp/yt-dlp,yt-dlp,138333,11172,2224,Python,2020-10-26 04:22:55+00:00,2025-12-15 14:55:11+00:00,The Unlicense,https://github.com/yt-dlp/yt-dlp,1876,12.382116004296455,Very High
-HelloGitHub,521xueweihan/HelloGitHub,521xueweihan,137308,10992,231,Python,2016-05-04 06:24:11+00:00,2025-12-15 15:36:33+00:00,No License,https://github.com/521xueweihan/HelloGitHub,3512,12.491630276564774,Very High
-thefuck,nvbn/thefuck,nvbn,94911,3800,397,Python,2015-04-08 15:08:04+00:00,2025-12-15 13:47:06+00:00,MIT License,https://github.com/nvbn/thefuck,3904,24.97657894736842,Very High
-fastapi,fastapi/fastapi,fastapi,93076,8370,184,Python,2018-12-08 08:21:47+00:00,2025-12-15 14:55:34+00:00,MIT License,https://github.com/fastapi/fastapi,2564,11.120191158900836,Very High
-markitdown,microsoft/markitdown,microsoft,84250,4847,401,Python,2024-11-13 19:56:40+00:00,2025-12-15 14:51:56+00:00,MIT License,https://github.com/microsoft/markitdown,396,17.38188570249639,Very High
-manim,3b1b/manim,3b1b,82410,6981,483,Python,2015-03-22 18:50:58+00:00,2025-12-15 13:49:25+00:00,MIT License,https://github.com/3b1b/manim,3920,11.804899011602922,Very High
-localstack,localstack/localstack,localstack,63632,4465,349,Python,2016-10-25 23:48:03+00:00,2025-12-15 14:55:13+00:00,Other,https://github.com/localstack/localstack,3337,14.251287793952967,Very High
-open-interpreter,openinterpreter/open-interpreter,openinterpreter,61082,5238,283,Python,2023-07-14 07:10:44+00:00,2025-12-15 14:28:12+00:00,GNU Affero General Public License v3.0,https://github.com/openinterpreter/open-interpreter,885,11.661321114929363,Very High
+awesome-python,vinta/awesome-python,vinta,273989,26908,526,Python,2014-06-27 21:00:06+00:00,2025-12-16 10:37:03+00:00,Other,https://github.com/vinta/awesome-python,4189,10.182436450126357,Very High
+langflow,langflow-ai/langflow,langflow-ai,141277,8172,935,Python,2023-02-08 22:28:03+00:00,2025-12-16 10:39:47+00:00,MIT License,https://github.com/langflow-ai/langflow,1041,17.287934410181105,Very High
+youtube-dl,ytdl-org/youtube-dl,ytdl-org,139181,10575,4120,Python,2010-10-31 14:35:07+00:00,2025-12-16 10:18:28+00:00,The Unlicense,https://github.com/ytdl-org/youtube-dl,5524,13.161323877068558,Very High
+yt-dlp,yt-dlp/yt-dlp,yt-dlp,138431,11178,2224,Python,2020-10-26 04:22:55+00:00,2025-12-16 10:38:16+00:00,The Unlicense,https://github.com/yt-dlp/yt-dlp,1877,12.384236893898729,Very High
+HelloGitHub,521xueweihan/HelloGitHub,521xueweihan,137391,10995,229,Python,2016-05-04 06:24:11+00:00,2025-12-16 10:22:29+00:00,No License,https://github.com/521xueweihan/HelloGitHub,3513,12.495770804911324,Very High
+thefuck,nvbn/thefuck,nvbn,94918,3801,397,Python,2015-04-08 15:08:04+00:00,2025-12-16 10:27:02+00:00,MIT License,https://github.com/nvbn/thefuck,3904,24.971849513285978,Very High
+fastapi,fastapi/fastapi,fastapi,93111,8374,184,Python,2018-12-08 08:21:47+00:00,2025-12-16 10:24:53+00:00,MIT License,https://github.com/fastapi/fastapi,2565,11.119058992118461,Very High
+markitdown,microsoft/markitdown,microsoft,84276,4846,401,Python,2024-11-13 19:56:40+00:00,2025-12-16 10:37:34+00:00,MIT License,https://github.com/microsoft/markitdown,397,17.39083780437474,Very High
+manim,3b1b/manim,3b1b,82425,6982,483,Python,2015-03-22 18:50:58+00:00,2025-12-16 09:45:16+00:00,MIT License,https://github.com/3b1b/manim,3921,11.805356631337725,Very High
+localstack,localstack/localstack,localstack,63647,4465,346,Python,2016-10-25 23:48:03+00:00,2025-12-16 09:29:47+00:00,Other,https://github.com/localstack/localstack,3338,14.25464725643897,Very High
+open-interpreter,openinterpreter/open-interpreter,openinterpreter,61095,5239,283,Python,2023-07-14 07:10:44+00:00,2025-12-16 10:23:11+00:00,GNU Affero General Public License v3.0,https://github.com/openinterpreter/open-interpreter,886,11.66157663676274,Very High
